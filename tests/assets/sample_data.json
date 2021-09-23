@@ -1,0 +1,686 @@
+[
+  {
+    "usableAreas": 70,
+    "listingType": "USED",
+    "createdAt": "2017-04-22T18:39:31.138Z",
+    "listingStatus": "ACTIVE",
+    "id": "7baf2775d4a2",
+    "parkingSpaces": 1,
+    "updatedAt": "2017-04-22T18:39:31.138Z",
+    "owner": false,
+    "images": [
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/f908948bf1d9e53d36c4734d296feb99.jpg",
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/bd37e4c09ddd370529489fbbc461dbec.jpg"
+    ],
+    "address": {
+      "city": "",
+      "neighborhood": "",
+      "geoLocation": {
+        "precision": "NO_GEOCODE",
+        "location": {
+          "lon": 0,
+          "lat": 0
+        }
+      }
+    },
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "pricingInfos": {
+      "yearlyIptu": "60",
+      "price": "276000",
+      "businessType": "SALE",
+      "monthlyCondoFee": "0"
+    }
+  },
+  {
+    "usableAreas": 69,
+    "listingType": "USED",
+    "createdAt": "2016-11-16T04:14:02Z",
+    "listingStatus": "ACTIVE",
+    "id": "a0f9d9647551",
+    "parkingSpaces": 1,
+    "updatedAt": "2016-11-16T04:14:02Z",
+    "owner": false,
+    "images": [
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/285805119ab0761500127aebd8ab0e1d.jpg"
+    ],
+    "address": {
+      "city": "",
+      "neighborhood": "",
+      "geoLocation": {
+        "precision": "ROOFTOP",
+        "location": {
+          "lon": -46.716542,
+          "lat": -23.502555
+        }
+      }
+    },
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "pricingInfos": {
+      "yearlyIptu": "0",
+      "price": "405000",
+      "businessType": "SALE",
+      "monthlyCondoFee": "495"
+    }
+  },
+  {
+    "usableAreas": 77,
+    "listingType": "USED",
+    "createdAt": "2018-05-08T00:29:38.179Z",
+    "listingStatus": "ACTIVE",
+    "id": "fed26dbe5881",
+    "parkingSpaces": 1,
+    "updatedAt": "2018-05-08T00:29:38.179Z",
+    "owner": false,
+    "images": [
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/76a9e6394825a55244e77df2acc2478f.jpg",
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/07aa0b09bffbd51cca83f3f76c1483c2.jpg"
+    ],
+    "address": {
+      "city": "São Paulo",
+      "neighborhood": "Campo Belo",
+      "geoLocation": {
+        "precision": "ROOFTOP",
+        "location": {
+          "lon": -46.672953,
+          "lat": -23.622739
+        }
+      }
+    },
+    "bathrooms": 3,
+    "bedrooms": 3,
+    "pricingInfos": {
+      "period": "MONTHLY",
+      "yearlyIptu": "810",
+      "price": "3500",
+      "rentalTotalPrice": "4440",
+      "businessType": "RENTAL",
+      "monthlyCondoFee": "940"
+    }
+  },
+  {
+    "usableAreas": 75,
+    "listingType": "USED",
+    "createdAt": "2017-08-04T01:49:39.052Z",
+    "listingStatus": "ACTIVE",
+    "id": "1106a85a38fa",
+    "parkingSpaces": 1,
+    "updatedAt": "2017-08-04T01:49:39.052Z",
+    "owner": false,
+    "images": [
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/b7a9573080f4db20b2ded6946e8196cc.jpg",
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/6ef92af698459d08365c40d7ee7ce1b1.jpg"
+    ],
+    "address": {
+      "city": "São Paulo",
+      "neighborhood": "Brooklin",
+      "geoLocation": {
+        "precision": "RANGE_INTERPOLATED",
+        "location": {
+          "lon": -46.692307,
+          "lat": -23.605332
+        }
+      }
+    },
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "pricingInfos": {
+      "period": "MONTHLY",
+      "yearlyIptu": "100",
+      "price": "2200",
+      "rentalTotalPrice": "3300",
+      "businessType": "RENTAL",
+      "monthlyCondoFee": "1100"
+    }
+  },
+  {
+    "usableAreas": 63,
+    "listingType": "USED",
+    "createdAt": "2017-11-07T06:11:30.572Z",
+    "listingStatus": "ACTIVE",
+    "id": "2e1442c31919",
+    "parkingSpaces": 1,
+    "updatedAt": "2017-11-07T06:11:30.572Z",
+    "owner": false,
+    "images": [
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/e68ed8903a2f1bbed5dc0e6f09f9368d.jpg"
+    ],
+    "address": {
+      "city": "",
+      "neighborhood": "",
+      "geoLocation": {
+        "precision": "GEOMETRIC_CENTER",
+        "location": {
+          "lon": -46.630607,
+          "lat": -23.561706
+        }
+      }
+    },
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "pricingInfos": {
+      "yearlyIptu": "83",
+      "price": "430000",
+      "businessType": "SALE",
+      "monthlyCondoFee": "814"
+    }
+  },
+  {
+    "usableAreas": 82,
+    "listingType": "USED",
+    "createdAt": "2016-01-26T17:13:06Z",
+    "listingStatus": "ACTIVE",
+    "id": "2aa5cd5ac575",
+    "parkingSpaces": 1,
+    "updatedAt": "2016-01-26T17:13:06Z",
+    "owner": false,
+    "images": [
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/07f0ab4df6660be102dfaf51f9647400.jpg"
+    ],
+    "address": {
+      "city": "",
+      "neighborhood": "",
+      "geoLocation": {
+        "precision": "RANGE_INTERPOLATED",
+        "location": {
+          "lon": -46.7419,
+          "lat": -23.5889
+        }
+      }
+    },
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "pricingInfos": {
+      "yearlyIptu": "245",
+      "price": "495000",
+      "businessType": "SALE",
+      "monthlyCondoFee": "495"
+    }
+  },
+  {
+    "usableAreas": 77,
+    "listingType": "USED",
+    "createdAt": "2017-02-08T17:20:31Z",
+    "listingStatus": "ACTIVE",
+    "id": "6faddf6f4df1",
+    "parkingSpaces": 1,
+    "updatedAt": "2017-02-08T17:20:31Z",
+    "owner": false,
+    "images": [
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/fb20fb0fbe57dcc5029bbd2ef23f750d.jpg",
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/ef017c4f4b0409e927ca3d28fb5fe387.jpg"
+    ],
+    "address": {
+      "city": "",
+      "neighborhood": "",
+      "geoLocation": {
+        "precision": "ROOFTOP",
+        "location": {
+          "lon": -46.718628,
+          "lat": -23.566332
+        }
+      }
+    },
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "pricingInfos": {
+      "yearlyIptu": "600",
+      "price": "415000",
+      "businessType": "SALE",
+      "monthlyCondoFee": "320"
+    }
+  },
+  {
+    "usableAreas": 62,
+    "listingType": "USED",
+    "createdAt": "2015-08-26T21:03:12Z",
+    "listingStatus": "ACTIVE",
+    "id": "efda038c55cf",
+    "parkingSpaces": 1,
+    "updatedAt": "2015-08-26T21:03:12Z",
+    "owner": false,
+    "images": [
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/3c8d05ea5ba8aaaaa32db461141e2a9a.jpg",
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/8cc7de744ab1366c43b9cebc16a0ea0c.jpg",
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/9a40c69992a150f799038c167a8327dd.jpg"
+    ],
+    "address": {
+      "city": "",
+      "neighborhood": "",
+      "geoLocation": {
+        "precision": "ROOFTOP",
+        "location": {
+          "lon": -46.7653,
+          "lat": -23.4925
+        }
+      }
+    },
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "pricingInfos": {
+      "yearlyIptu": "850",
+      "price": "500000",
+      "businessType": "SALE",
+      "monthlyCondoFee": "250"
+    }
+  },
+  {
+    "usableAreas": 48,
+    "listingType": "USED",
+    "createdAt": "2017-03-22T09:31:06Z",
+    "listingStatus": "ACTIVE",
+    "id": "f67f280fac32",
+    "parkingSpaces": 1,
+    "updatedAt": "2017-03-22T09:31:06Z",
+    "owner": false,
+    "images": [
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/18311ab316f36d103275724157cc37f4.jpg"
+    ],
+    "address": {
+      "city": "",
+      "neighborhood": "",
+      "geoLocation": {
+        "precision": "ROOFTOP",
+        "location": {
+          "lon": -46.716916,
+          "lat": -23.489969
+        }
+      }
+    },
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "pricingInfos": {
+      "yearlyIptu": "250",
+      "price": "203000",
+      "businessType": "SALE",
+      "monthlyCondoFee": "200"
+    }
+  },
+  {
+    "usableAreas": 70,
+    "listingType": "USED",
+    "createdAt": "2017-01-24T15:18:11Z",
+    "listingStatus": "ACTIVE",
+    "id": "eaace2058a5d",
+    "parkingSpaces": 1,
+    "updatedAt": "2017-01-24T15:18:11Z",
+    "owner": false,
+    "images": [
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/25b8498cbeb033e18d80e0daf93601e4.jpg"
+    ],
+    "address": {
+      "city": "",
+      "neighborhood": "",
+      "geoLocation": {
+        "precision": "ROOFTOP",
+        "location": {
+          "lon": -46.748412,
+          "lat": -23.571581
+        }
+      }
+    },
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "pricingInfos": {
+      "yearlyIptu": "450",
+      "price": "450000",
+      "businessType": "SALE",
+      "monthlyCondoFee": "225"
+    }
+  },
+  {
+    "usableAreas": 44,
+    "listingType": "USED",
+    "createdAt": "2018-03-24T18:56:08.032Z",
+    "listingStatus": "ACTIVE",
+    "id": "f396af7b6324",
+    "parkingSpaces": 0,
+    "updatedAt": "2018-03-24T18:56:08.032Z",
+    "owner": false,
+    "images": [
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/5ca9ec55f8523118bf313adbe1ed0e95.jpg",
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/a5d8d11b405db3aaf966efb3eea76fde.jpg"
+    ],
+    "address": {
+      "city": "São Paulo",
+      "neighborhood": "Santana",
+      "geoLocation": {
+        "precision": "ROOFTOP",
+        "location": {
+          "lon": -46.616125,
+          "lat": -23.500091
+        }
+      }
+    },
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "pricingInfos": {
+      "yearlyIptu": "0",
+      "price": "205000",
+      "businessType": "SALE",
+      "monthlyCondoFee": "100"
+    }
+  },
+  {
+    "usableAreas": 65,
+    "listingType": "USED",
+    "createdAt": "2018-03-17T16:35:36.563Z",
+    "listingStatus": "ACTIVE",
+    "id": "5c4bb4d0dbed",
+    "parkingSpaces": 1,
+    "updatedAt": "2018-03-17T16:35:36.563Z",
+    "owner": false,
+    "images": [
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/5543dbc9a24e4f6c37e4d3efa610eb3b.jpg",
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/0bd60c47a0a8a8293c2b72e70b5dceb1.jpg"
+    ],
+    "address": {
+      "city": "São Paulo",
+      "neighborhood": "Jardim São Paulo",
+      "geoLocation": {
+        "precision": "ROOFTOP",
+        "location": {
+          "lon": -46.619021,
+          "lat": -23.487377
+        }
+      }
+    },
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "pricingInfos": {
+      "yearlyIptu": "0",
+      "price": "274000",
+      "businessType": "SALE",
+      "monthlyCondoFee": "180"
+    }
+  },
+  {
+    "usableAreas": 0,
+    "listingType": "USED",
+    "createdAt": "2017-09-01T20:38:58.464Z",
+    "listingStatus": "ACTIVE",
+    "id": "682d9649e543",
+    "parkingSpaces": 1,
+    "updatedAt": "2017-09-01T20:38:58.464Z",
+    "owner": false,
+    "images": [
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/9729ae8c3553183f763dd70c636ce35e.jpg"
+    ],
+    "address": {
+      "city": "",
+      "neighborhood": "",
+      "geoLocation": {
+        "precision": "NO_GEOCODE",
+        "location": {
+          "lon": 0,
+          "lat": 0
+        }
+      }
+    },
+    "bathrooms": 0,
+    "bedrooms": 2,
+    "pricingInfos": {
+      "yearlyIptu": "0",
+      "price": "450000",
+      "businessType": "SALE",
+      "monthlyCondoFee": "400"
+    }
+  },
+  {
+    "usableAreas": 0,
+    "listingType": "USED",
+    "createdAt": "2017-09-01T20:39:04.345Z",
+    "listingStatus": "ACTIVE",
+    "id": "a6cc0ff66d24",
+    "parkingSpaces": 2,
+    "updatedAt": "2017-09-01T20:39:04.345Z",
+    "owner": false,
+    "images": [
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/ab76f57927c3604b1aacb02360db228b.jpg"
+    ],
+    "address": {
+      "city": "",
+      "neighborhood": "",
+      "geoLocation": {
+        "precision": "NO_GEOCODE",
+        "location": {
+          "lon": 0,
+          "lat": 0
+        }
+      }
+    },
+    "bathrooms": 1,
+    "bedrooms": 3,
+    "pricingInfos": {
+      "yearlyIptu": "0",
+      "price": "1000000",
+      "businessType": "SALE",
+      "monthlyCondoFee": "800"
+    }
+  },
+  {
+    "usableAreas": 59,
+    "listingType": "USED",
+    "createdAt": "2016-10-11T14:23:07Z",
+    "listingStatus": "ACTIVE",
+    "id": "75258dfced07",
+    "parkingSpaces": 1,
+    "updatedAt": "2016-10-11T14:23:07Z",
+    "owner": false,
+    "images": [
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/8a79b68c5f0d6132f769d80b162a6a9f.jpg",
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/af5f5c4ffbe25e1f59c44d212f3b9345.jpg"
+    ],
+    "address": {
+      "city": "São Paulo",
+      "neighborhood": "Jardim Celeste",
+      "geoLocation": {
+        "precision": "ROOFTOP",
+        "location": {
+          "lon": -46.6116,
+          "lat": -23.6543
+        }
+      }
+    },
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "pricingInfos": {
+      "yearlyIptu": "0",
+      "price": "270000",
+      "businessType": "SALE",
+      "monthlyCondoFee": "470"
+    }
+  },
+  {
+    "usableAreas": 120,
+    "listingType": "USED",
+    "createdAt": "2016-07-27T20:36:14Z",
+    "listingStatus": "ACTIVE",
+    "id": "098d8ac92eec",
+    "parkingSpaces": 5,
+    "updatedAt": "2016-07-27T20:36:14Z",
+    "owner": false,
+    "images": [
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/35b75559e1b08782b3aa80123cd5ae98.jpg",
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/613b4f44ccc5fbcecb0b55fa3f4ddc26.jpg"
+    ],
+    "address": {
+      "city": "São Paulo",
+      "neighborhood": "Jardim Maria Estela",
+      "geoLocation": {
+        "precision": "ROOFTOP",
+        "location": {
+          "lon": -46.597571,
+          "lat": -23.637851
+        }
+      }
+    },
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "pricingInfos": {
+      "price": "550000",
+      "businessType": "SALE"
+    }
+  },
+  {
+    "usableAreas": 65,
+    "listingType": "USED",
+    "createdAt": "2017-01-13T17:12:09Z",
+    "listingStatus": "ACTIVE",
+    "id": "bcd8d3d1ff90",
+    "parkingSpaces": 1,
+    "updatedAt": "2017-01-13T17:12:09Z",
+    "owner": false,
+    "images": [
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/72b029519471e7ff2da43eb39216b2f9.jpg",
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/df3466093f7dc9ecdf17b575762f8e32.jpg"
+    ],
+    "address": {
+      "city": "",
+      "neighborhood": "",
+      "geoLocation": {
+        "precision": "ROOFTOP",
+        "location": {
+          "lon": -46.5967,
+          "lat": -23.6361
+        }
+      }
+    },
+    "bathrooms": 2,
+    "bedrooms": 3,
+    "pricingInfos": {
+      "yearlyIptu": "0",
+      "price": "360000",
+      "businessType": "SALE",
+      "monthlyCondoFee": "420"
+    }
+  },
+  {
+    "usableAreas": 400,
+    "listingType": "USED",
+    "createdAt": "2016-05-06T18:53:34Z",
+    "listingStatus": "ACTIVE",
+    "id": "3b3818ed679e",
+    "parkingSpaces": 4,
+    "updatedAt": "2016-05-06T18:53:34Z",
+    "owner": false,
+    "images": [
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/c0f14d4f7991663ac76ed002daeb68e9.jpg"
+    ],
+    "address": {
+      "city": "São Paulo",
+      "neighborhood": "Vila Liviero",
+      "geoLocation": {
+        "precision": "ROOFTOP",
+        "location": {
+          "lon": -46.596273,
+          "lat": -23.64909
+        }
+      }
+    },
+    "bathrooms": 4,
+    "bedrooms": 4,
+    "pricingInfos": {
+      "price": "680000",
+      "businessType": "SALE"
+    }
+  },
+  {
+    "usableAreas": 90,
+    "listingType": "USED",
+    "createdAt": "2015-12-05T14:19:44Z",
+    "listingStatus": "ACTIVE",
+    "id": "b345f2f79b54",
+    "parkingSpaces": 2,
+    "updatedAt": "2015-12-05T14:19:44Z",
+    "owner": false,
+    "images": [
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/9342b50e015188564e95c4df59dd9e69.jpg"
+    ],
+    "address": {
+      "city": "",
+      "neighborhood": "",
+      "geoLocation": {
+        "precision": "NO_GEOCODE",
+        "location": {
+          "lon": 0,
+          "lat": 0
+        }
+      }
+    },
+    "bathrooms": 0,
+    "bedrooms": 3,
+    "pricingInfos": {
+      "price": "850000",
+      "businessType": "SALE"
+    }
+  },
+  {
+    "usableAreas": 62,
+    "listingType": "USED",
+    "createdAt": "2018-02-10T06:36:42.472Z",
+    "listingStatus": "ACTIVE",
+    "id": "89f5516c37ad",
+    "parkingSpaces": 1,
+    "updatedAt": "2018-02-10T06:36:42.472Z",
+    "owner": false,
+    "images": [
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/4016627aacb5ae1398f5ba565df4c4b9.jpg"
+    ],
+    "address": {
+      "city": "São Paulo",
+      "neighborhood": "Várzea da Barra Funda",
+      "geoLocation": {
+        "precision": "GEOMETRIC_CENTER",
+        "location": {
+          "lon": -46.665649,
+          "lat": -23.519095
+        }
+      }
+    },
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "pricingInfos": {
+      "yearlyIptu": "0",
+      "price": "650000",
+      "businessType": "SALE",
+      "monthlyCondoFee": "600"
+    }
+  },
+  {
+    "usableAreas": 200,
+    "listingType": "USED",
+    "createdAt": "2015-11-10T21:27:19Z",
+    "listingStatus": "ACTIVE",
+    "id": "6b92cf890eef",
+    "parkingSpaces": 5,
+    "updatedAt": "2015-11-10T21:27:19Z",
+    "owner": false,
+    "images": [
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/b727e70d8c6648f38fb55c9ca2c5cfb2.jpg",
+      "https://resizedimgs.vivareal.com/crop/400x300/vr.images.sp/de55f4660475b4ac3f06be78a8471f51.jpg"
+    ],
+    "address": {
+      "city": "",
+      "neighborhood": "",
+      "geoLocation": {
+        "precision": "NO_GEOCODE",
+        "location": {
+          "lon": 0,
+          "lat": 0
+        }
+      }
+    },
+    "bathrooms": 5,
+    "bedrooms": 3,
+    "pricingInfos": {
+      "period": "MONTHLY",
+      "yearlyIptu": "0",
+      "price": "4000",
+      "rentalTotalPrice": "4000",
+      "businessType": "RENTAL",
+      "monthlyCondoFee": "0"
+    }
+  }
+]
