@@ -55,6 +55,6 @@ class MemoryStorage:
             return True
 
         for f in filters:
-            if f.is_allowed(item):
-                return True
-        return False
+            if not f.is_allowed(item):
+                return False
+        return True
