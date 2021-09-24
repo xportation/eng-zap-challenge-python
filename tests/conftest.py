@@ -93,3 +93,10 @@ def zap_portal(storage, zap_restrictions):
 @pytest.fixture
 def viva_real_portal(storage, viva_real_restrictions):
     return services.Portal(storage, viva_real_restrictions)
+
+
+@pytest.fixture
+def mock_data_json(sale_property, rental_property):
+    sale_json = sale_property.json(by_alias=True)
+    rental_json = rental_property.json(by_alias=True)
+    return f'[{sale_json}, {sale_json}, {rental_json}]'

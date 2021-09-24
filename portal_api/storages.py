@@ -1,7 +1,6 @@
-import json
 from typing import List
 
-# import requests
+import requests
 from pydantic import ValidationError
 
 from portal_api import models
@@ -17,22 +16,20 @@ class DataLoaderWeb:
     def all(self) -> List[models.Property]:
         return self.items
 
-    # def reload(self):
-    #     self.logger.debug('Reloading items')
-    #     self.items = []
-    #     resp = requests.get(self.data_url)
-    #     if resp.ok:
-    #         for item in resp.json():
-    #             try:
-    #                 self.items.append(models.Property(**item))
-    #             except ValidationError as e:
-    #                 self.logger.exception(e.json())
-    #     self.logger.debug('Reload done')
     def reload(self):
-        with open('/Users/leonardo/Downloads/source-2.json') as f:
-            data = list(json.load(f))
-            for item in data:
-                self.items.append(models.Property(**item))
+        self.logger.debug('Reloading items')
+        self.items = []
+        resp = requests.get(self.data_url)
+        if resp.ok:
+            for item in resp.json():
+                self.load_item(item)
+        self.logger.debug('Reload done')
+
+    def load_item(self, item):
+        try:
+            self.items.append(models.Property(**item))
+        except ValidationError as e:
+            self.logger.exception(e.json())
 
 
 class MemoryStorage:
