@@ -21,17 +21,17 @@ def storage():
 
 
 @pytest.fixture
-def base_restrictions(storage):
+def base_restrictions():
     return services.BaseRestrictions()
 
 
 @pytest.fixture
-def zap_restrictions(storage):
+def zap_restrictions():
     return services.ZapRestrictions()
 
 
 @pytest.fixture
-def viva_real_restrictions(storage):
+def viva_real_restrictions():
     return services.VivaRealRestrictions()
 
 

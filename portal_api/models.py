@@ -69,26 +69,3 @@ class Property(BaseModel):
     bedrooms: int
     address: Address
     pricing_info: PricingInfo = Field(None, alias='pricingInfos')
-
-
-class Pagination(BaseModel):
-    class Config:
-        allow_population_by_field_name = True
-
-    page_number: int = Field(None, alias='pageNumber')
-    page_size: int = Field(None, alias='pageSize')
-    total_count: int = Field(None, alias='totalCount')
-    listings: List[Property]
-
-
-class Filter(BaseModel):
-    class Config:
-        allow_population_by_field_name = True
-
-    business_type: BusinessType = Field(None, alias='businessType')
-    address: str = None
-    min_price: int = None
-    max_price: int = None
-    bedroom: int = None
-    parking_space: int = None
-    bathroom: int = None

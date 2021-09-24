@@ -32,10 +32,7 @@ class DataLoaderWeb:
         with open('/Users/leonardo/Downloads/source-2.json') as f:
             data = list(json.load(f))
             for item in data:
-                try:
-                    self.items.append(models.Property(**item))
-                except ValidationError as e:
-                    self.logger.exception(e.json())
+                self.items.append(models.Property(**item))
 
 
 class MemoryStorage:

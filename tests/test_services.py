@@ -86,10 +86,10 @@ def test_base_restrictions_no_effect_at_sale_and_rental(base_restrictions, sale_
 
 
 def test_zap_portal(zap_portal):
-    items = zap_portal.load_filters([])
+    items = zap_portal.load_filters([], 1, 5)
     assert len(items) == 2
 
 
 def test_viva_real_portal(viva_real_portal):
-    items = viva_real_portal.load_filters([])
-    assert len(items) == 15
+    items = viva_real_portal.load_filters([], 1, 100)
+    assert len(items) == 2

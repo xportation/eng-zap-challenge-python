@@ -75,9 +75,12 @@ class Portal:
         self.storage = storage
         self.restrictions = restrictions
 
-    def load_filters(self, filters):
+    def load_filters(self, filters, page_number, page_size):
         items = self.storage.load_filters(filters)
-        return self.remove_restricted_items(items)
+        items = self.remove_restricted_items(items)
+        total_count = len(items)
+        offset = (page_number - 1) * page_size
+        return items[offset:offset+page_size], total_count
 
     def remove_restricted_items(self, items):
         return [item for item in items if not self.restrictions.is_restricted(item)]
